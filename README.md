@@ -421,7 +421,7 @@ Os recursos XML em `app/src/main/res/drawable` definem ícones de ações e fund
 <p align="center">
   <img src="images/nova_agenda_e_datahora.jpg" alt="Criar Agendamento com Data e Hora" width="250" />
   <img src="images/widget.jpg" alt="Widget da Tela Inicial" width="250" />
-</p>## Imagens
+</p>
 
 <p align="center">
   <img src="images/feriados.jpg" alt="Aba Feriados" width="250" />
