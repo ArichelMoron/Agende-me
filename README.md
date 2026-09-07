@@ -423,23 +423,6 @@ Os recursos XML em `app/src/main/res/drawable` definem ícones de ações e fund
   <img src="images/widget.jpg" alt="Widget da Tela Inicial" width="250" />
 </p>
 
-<p align="center">
-  <img src="images/feriados.jpg" alt="Aba Feriados" width="250" />
-  <img src="images/agendamentos.jpg" alt="Aba Agendamentos" width="250" />
-  <img src="images/anotações.jpg" alt="Aba Anotações" width="250" />
-</p>
-
-<p align="center">
-  <img src="images/feriados_esconder.jpg" alt="Feriados Ocultados" width="250" />
-  <img src="images/link_e_email.jpg" alt="Links e E-mail no Card" width="250" />
-  <img src="images/nova_agenda.jpg" alt="Criar Nova Anotação/Agendamento" width="250" />
-</p>
-
-<p align="center">
-  <img src="images/nova_agenda_e_datahora.jpg" alt="Criar Agendamento com Data e Hora" width="250" />
-  <img src="images/widget.jpg" alt="Widget da Tela Inicial" width="250" />
-</p>
-
 
 
 ## Licença
