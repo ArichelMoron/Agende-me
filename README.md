@@ -26,4 +26,4 @@ README.md em Andamento...
 
 
 
-App criado por Arichel dos Santos Moron - Não possui lincença de comercialização. 
+App criado por Arichel dos Santos Moron - Comercialização não autorizada.
