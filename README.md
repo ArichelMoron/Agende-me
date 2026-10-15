@@ -142,16 +142,7 @@ Os dados exibidos no widget são persistidos separadamente em `SharedPreferences
 
 
 
-O clima é consultado na API Open-Meteo para as coordenadas padrão de São Paulo:
-
-
-
-- latitude: `-23.5505`;
-
-- longitude: `-46.6333`.
-
-
-
+O clima é consultado na API Open-Meteo.
 O repositório de clima escolhe uma previsão em blocos fixos de seis horas:
 
 
@@ -189,10 +180,6 @@ Os SVGs são obtidos da versão estática dos Meteocons:
 https://cdn.meteocons.com/3.0.0-next.10/svg-static/fill/{icone}.svg
 
 ```
-
-
-
-O SVG é convertido para PNG antes de ser exibido pelo Glance. O arquivo é salvo no armazenamento interno do aplicativo. Quando existe internet, o cache é atualizado; se a conexão falhar, o último PNG válido continua sendo utilizado.
 
 
 
